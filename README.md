@@ -11,4 +11,3 @@ I'm a Machine Learning Engineer. I grew up in Ahmedabad city. I am highly motiva
 - I'm currently learning new techologies in machine learning/data science field and it's various applications.
 - I'm best reached via **parthpatel6037@gmail.com** and also via [LinkedIn](https://www.linkedin.com/in/parth-patel-6026b7165/). I'm always open to interesting conversations and collaboration
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=parth-patel97&show_icons=true" alt="parth-patel97" /></p>
