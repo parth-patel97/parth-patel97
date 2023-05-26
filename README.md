@@ -7,7 +7,6 @@ I'm a Machine Learning Engineer. I grew up in Ahmedabad city. I am highly motiva
 
 
 ## Some of my Github Stats
-<!-- <p align=left> <img src=https://komarev.com/ghpvc/?username=Cradoe alt=Cradoe /> </p> -->
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parth-patel97&theme=radical)| <a href="https://github.com/parth-patel97/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-patel97&layout=compact&theme=aura&hide_border=true" /></a> |
 | ------------- | ------------- |
