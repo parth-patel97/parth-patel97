@@ -13,7 +13,7 @@ I'm a Data Scientist. I grew up in Ahmedabad. I am highly motivated to apply my 
 
 ## Some of my GitHub Stats
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=parth-patel97&layout=compact&theme=aura&hide_border=true) | <a href="https://github.com/parth-patel97/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-patel97&layout=compact&theme=aura&hide_border=true" /></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parth-patel97&theme=radical) | <a href="https://github.com/parth-patel97/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-patel97&layout=compact&theme=aura&hide_border=true" /></a> |
+| ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=parth-patel97&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
