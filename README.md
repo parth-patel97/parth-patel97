@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Parth 👋</h1>
 
-I'm a Data Scientist. I grew up in Ahmedabad. I am highly motivated to apply my data science/machine learning knowledge, experience and provide valuable insights to solve challenging business problems and build a useful AI product. I have an understanding of working in a diversified environment and have gained deep-rooted knowledge of the various competencies.
+I'm a Machine Learning Engineer. I grew up in Ahmedabad. I am highly motivated to apply my data science/machine learning knowledge, and experience and provide valuable insights to solve challenging business problems and build a useful AI product. I understand working in a diversified environment and have gained deep-rooted knowledge of the various competencies.
 
 - I'm currently learning Langchain and LLMs, and making POCs using these technologies.
 - I'm best reached via **parthpatel6037@gmail.com** and also via [LinkedIn](https://www.linkedin.com/in/parth-patel-6026b7165/). I'm always open to interesting conversations and collaboration.
