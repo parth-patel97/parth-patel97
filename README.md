@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Parth 👋</h1>
 
-As an enthusiastic Machine Learning Engineer from Ahmedabad, I am motivated to use my broad data science and machine learning knowledge to solve challenging business problems and create cutting-edge artificial intelligence solutions. I have a strong desire to offer insightful presentations that go beyond traditional limitations. Thanks to my history, I have a deep understanding of varied competencies, and I can't wait to help create AI products that have an impact. Together, let's turn data into intelligent action and push innovation as a key component of business solutions.
+As an enthusiastic Data Scientist-II from Ahmedabad, I am motivated to use my broad data science and machine learning knowledge to solve challenging business problems and create cutting-edge artificial intelligence solutions. I have a strong desire to offer insightful presentations that go beyond traditional limitations. Thanks to my history, I have a deep understanding of varied competencies, and I can't wait to help create AI products that have an impact. Together, let's turn data into intelligent action and push innovation as a key component of business solutions.
 
-- I'm currently learning Langchain and LLMs, and making POCs using these technologies.
+- I'm currently learning different LLMs and RAG system, and making POCs using these technologies.
 - I'm best reached via **parthpatel6037@gmail.com** and also via [LinkedIn](https://www.linkedin.com/in/parth-patel-6026b7165/). I'm always open to interesting conversations and collaboration.
 
 ## Connect With Me:
