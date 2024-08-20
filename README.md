@@ -2,7 +2,7 @@
 <h3 align="center">Senior Data Scientist</h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Advance RAG system's design, evaluation, and Deployment**
+- 🌱 I’m currently learning **Advance RAG system's design, evaluation, and Production**
 
 - 📫 How to reach me **parthpatel6037@gmail.com**
 
