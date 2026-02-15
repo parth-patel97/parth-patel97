@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
-<h3 align="center">Senior Data Scientist crafting intelligent AI systems & advancing ML technologies</h3>
+<h3 align="center">AI Systems Engineer building production-grade LLM Agents & Scalable GenAI Infrastructure</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🚀 I architect and deploy **production-grade LLM agent systems** with full ownership across orchestration, retrieval, infrastructure, and monitoring  
 
-- 🔭 I specialize in **Machine Learning, Deep Learning, and Generative AI applications**
+- 🧠 I build scalable **multi-agent workflows** using Claude Agent SDK, OpenAI Agent SDK, and LangGraph  
 
-- 🛠️ I've built **Face Recognition Systems, AI Chatbots, and Recommendation Engines**
+- 🔎 I design high-performance **RAG pipelines** using Qdrant, OpenSearch, and optimized embedding + chunking strategies  
 
-- 💡 I work with **PyTorch, TensorFlow, LLMs (GPT, LLaMA, Claude), and Vector Databases**
+- ☁️ I engineer AWS-native AI infrastructure using **Lambda, SQS, Glue, DynamoDB, Redshift, EMR, Athena, and Bedrock**  
 
-- ☁️ Experience with **AWS Lambda, EC2, Sagemaker, Docker, and API deployment**
+- 📊 I focus on **observability, structured logging, cost optimization, and failure handling** for reliable AI systems  
 
-- 👨‍💻 Leading teams to deliver **AI solutions that drive business value**
+- 🛠️ Strong background in **Deep Learning, Computer Vision, and real-time ML systems** (Face Recognition, ANPR, Detection pipelines)  
 
-- 🌱 Currently building **AI Agents and exploring MCP (Model Context Protocol) server applications**
+- ⚙️ Experienced in **PyTorch, FastAPI, distributed systems, vector databases, and production API design**  
 
-- 👯 Researching how **LLMs integrate with MCP to solve complex problems at scale**
+- 🌱 Currently advancing **AI Agent architecture, MCP server applications, and scalable orchestration patterns**  
 
-- 🔍 Looking to collaborate on **innovative AI agent systems with real-world impact**
+- 🤝 Open to collaborating on **advanced AI agent systems, retrieval infrastructure, and real-world GenAI applications**
