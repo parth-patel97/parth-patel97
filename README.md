@@ -11,7 +11,7 @@ agent design, RAG pipelines, AWS infrastructure, and API layers.
 
 ## Recent Work
 - 🤖 Multi-agent travel planning system using MCP server architecture
-- 👗 DRAPE — AI fashion model image generation with Claude Vision API
+- 👗 DRAPE — AI fashion model image generation with Vision LLM API
 - 🏭 Image recognition system for manufacturing part identification
 - 💬 HR chatbot + AI receptionist for client automation
 
