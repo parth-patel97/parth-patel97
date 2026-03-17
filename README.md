@@ -1,20 +1,25 @@
-<h1 align="center">Hi 👋, I'm Parth</h1>
-<h3 align="center">AI Systems Engineer building production-grade LLM Agents & Scalable GenAI Infrastructure</h3>
+# Hi, I'm Parth 👋
 
-- 🚀 I architect and deploy **production-grade LLM agent systems** with full ownership across orchestration, retrieval, infrastructure, and monitoring  
+AI Systems Engineer | LLM Agents · RAG · MCP · GenAI Infrastructure
 
-- 🧠 I build scalable **multi-agent workflows** using Claude Agent SDK, OpenAI Agent SDK, and LangGraph  
+---
 
-- 🔎 I design high-performance **RAG pipelines** using Qdrant, OpenSearch, and optimized embedding + chunking strategies  
+## What I Build
+Production-grade AI agent systems — from orchestration and retrieval 
+to deployment and monitoring. I work across the full stack: 
+agent design, RAG pipelines, AWS infrastructure, and API layers.
 
-- ☁️ I engineer AWS-native AI infrastructure using **Lambda, SQS, Glue, DynamoDB, Redshift, EMR, Athena, and Bedrock**  
+## Recent Work
+- 🤖 Multi-agent travel planning system using MCP server architecture
+- 👗 DRAPE — AI fashion model image generation with Claude Vision API
+- 🏭 Image recognition system for manufacturing part identification
+- 💬 HR chatbot + AI receptionist for client automation
 
-- 📊 I focus on **observability, structured logging, cost optimization, and failure handling** for reliable AI systems  
+## Stack
+**Agents:** Claude SDK · OpenAI Agents SDK · LangGraph  
+**Retrieval:** Qdrant · OpenSearch · RAG pipelines  
+**Infra:** AWS Lambda · SQS · DynamoDB · Bedrock · FastAPI  
+**ML:** PyTorch · Computer Vision
 
-- 🛠️ Strong background in **Deep Learning, Computer Vision, and real-time ML systems** (Face Recognition, ANPR, Detection pipelines)  
-
-- ⚙️ Experienced in **PyTorch, FastAPI, distributed systems, vector databases, and production API design**  
-
-- 🌱 Currently advancing **AI Agent architecture, MCP server applications, and scalable orchestration patterns**  
-
-- 🤝 Open to collaborating on **advanced AI agent systems, retrieval infrastructure, and real-world GenAI applications**
+## Let's Connect
+[LinkedIn](https://www.linkedin.com/in/parthpatel2997/) · [Twitter](https://x.com/parthpatel625) · Open to AI agent collabs
